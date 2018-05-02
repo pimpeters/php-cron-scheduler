@@ -1,20 +1,8 @@
 {
-    "name": "peppeocchi/php-cron-scheduler",
+    "name": "pimpeters/php-cron-scheduler",
     "description": "PHP Cron Job Scheduler",
     "license": "MIT",
     "keywords": ["cron job", "scheduler"],
-    "authors": [
-        {
-            "name": "Giuseppe Occhipinti",
-            "email": "peppeocchi@gmail.com"
-        },
-        {
-            "name": "Carsten Windler",
-            "email": "carsten@carstenwindler.de",
-            "homepage": "http://carstenwindler.de",
-            "role": "Contributor"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
